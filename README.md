@@ -412,39 +412,38 @@ This repository contains the source code for my GitHub profile README and portfo
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sangeethabarla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com/?user=Sangeethabarla&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeethabarla&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<a href="https://github.com/Sangeethabarla">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangeethabarla&theme=tokyo-night&hide_border=true"/>
-</a>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sangeethabarla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    height="180"
+    alt="Sangeetha's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeethabarla&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    height="180"
+    alt="Sangeetha's Top Languages"
+  />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Activity
 
 <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sangeethabarla&hide_border=true&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7"
+    alt="Sangeetha's GitHub Contribution Graph"
+  />
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+---
 
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sangeethabarla/Sangeethabarla/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
@@ -454,11 +453,35 @@ This repository contains the source code for my GitHub profile README and portfo
 <p align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img
+    src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode"
+  />
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-500%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GeeksforGeeks-500%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    alt="GeeksforGeeks"
+  />
+</a>
+
+<a href="https://www.codechef.com/users/u23a81a6105">
+  <img
+    src="https://img.shields.io/badge/CodeChef-673%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+    alt="CodeChef"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/u23a81a6105">
+  <img
+    src="https://img.shields.io/badge/CodeChef-1%E2%98%85%20%7C%20Highest%20Rating%20904-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+    alt="CodeChef Rating"
+  />
 </a>
 
 </p>
@@ -467,34 +490,26 @@ This repository contains the source code for my GitHub profile README and portfo
 
 # 🎯 2026 Goals
 
+- ☑ Strengthen Advanced Java
+- ☑ Master Advanced DSA
+- ☑ Build Production-Ready Backend Applications
+- ☑ Explore Generative AI
+- ☑ Build RAG & LLM Applications
+- ☑ Improve System Design
+- ☑ Strengthen Cloud Development
+- ☑ Build More Real-World AI/ML Projects
+- ☑ Contribute to Open Source
+- ☑ Become a Strong Software Engineer
 
-☑ Strengthen Advanced Java
-☑ Master Advanced DSA
-☑ Build Production-Ready Backend Applications
-☑ Explore Generative AI
-☑ Build RAG & LLM Applications
-☑ Improve System Design
-☑ Strengthen Cloud Development
-☑ Build More Real-World AI/ML Projects
-☑ Contribute to Open Source
-☑ Become a Strong Software Engineer
-
-
-
-
-
+---
 
 # 🌱 Currently Exploring
-
-<p align="center">
 
 `Generative AI` • `RAG` • `LLMs` • `Advanced Java`
 
 `Backend Development` • `System Design` • `Cloud`
 
 `Machine Learning` • `Data Science` • `Open Source`
-
-</p>
 
 ---
 
@@ -518,15 +533,19 @@ I'm interested in collaborating on:
 <p align="center">
 
 <a href="https://github.com/Sangeethabarla">
-<img src="https://img.shields.io/badge/GitHub-Sangeethabarla-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Sangeethabarla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sangeetha-barla/">
-<img src="https://img.shields.io/badge/LinkedIn-Sangeetha%20Barla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sangeetha%20Barla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sangeethabarla11@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.codechef.com/users/u23a81a6105">
+  <img src="https://img.shields.io/badge/CodeChef-u23a81a6105-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
 </p>
@@ -535,15 +554,9 @@ I'm interested in collaborating on:
 
 # ✨ Developer Philosophy
 
-<p align="center">
-
 ### Learn → Build → Solve → Improve → Repeat 🚀
 
-<br>
-
-<b>"Turning ideas into practical working projects."</b>
-
-</p>
+> "Turning ideas into practical working projects."
 
 ---
 
@@ -552,16 +565,6 @@ I'm interested in collaborating on:
 ### 💙 Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and connect with me.
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sangeethabarla&label=Profile%20Views&style=flat"/>
-
-</p>
-
-<p align="center">
 
 ### ✨ Learning • Building • Solving • Growing ✨
 
