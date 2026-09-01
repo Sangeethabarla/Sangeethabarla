@@ -14,8 +14,8 @@
 <h3>🎓 B.Tech in Artificial Intelligence & Machine Learning | Sri Vasavi Engineering College</h3>
 
 <!-- Social Links -->
-<p>
-  <a href="https://www.linkedin.com/in/sangeetha-barla/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sangeetha-barla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Sangeethabarla">
@@ -27,9 +27,10 @@
 </p>
 
 <!-- Profile Views -->
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sangeethabarla&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
 </p>
+
 
 </div>
 
@@ -195,9 +196,16 @@
 ### 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP-Back--End%20Developer%20(ABAP%20Cloud)%20%7C%202026-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Certified%20%7C%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1vqae8ZyCbgpofCxFoBAxDN4rNiB9LQVs/view">
+    <img src="https://img.shields.io/badge/SAP-Back--End%20Developer%20(ABAP%20Cloud)%20%7C%202026-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1qAdQpZiCNNSRadciiKLtn8olJxGFhJTn/view">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Certified%20%7C%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  </a>
 </p>
+
+---
 
 ---
 
@@ -223,19 +231,26 @@
 
 ### 📫 Let's Connect
 
-<a href="https://github.com/Sangeethabarla">
-  <img src="https://img.shields.io/badge/GitHub-Sangeethabarla-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Sangeethabarla">
+    <img src="https://img.shields.io/badge/GitHub-Sangeethabarla-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sangeetha-barla/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sangeetha%20Barla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sangeetha-barla">
+    <img src="https://img.shields.io/badge/LinkedIn-Sangeetha%20Barla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:sangeethabarla11@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-sangeethabarla11%40gmail.com-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:sangeethabarla11@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-sangeethabarla11%40gmail.com-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>“Learn continuously. Build practically. Solve intelligently.” 🚀</i>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" width="100%"/>
 
 </div>
+
 
