@@ -409,40 +409,43 @@ This repository contains the source code for my GitHub profile README and portfo
 
 ---
 
-# 📊 GitHub Statistics
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sangeethabarla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    height="180"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sangeethabarla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
     alt="Sangeetha's GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeethabarla&layout=compact&langs_count=8&hide_border=true&theme=transparent"
     height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeethabarla&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
     alt="Sangeetha's Top Languages"
+    height="180"
   />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sangeethabarla&hide_border=true&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7"
-    alt="Sangeetha's GitHub Contribution Graph"
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sangeethabarla&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sangeetha's GitHub Contribution Activity"
+    width="95%"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sangeethabarla/Sangeethabarla/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+  <img 
+    src="https://streak-stats.demolab.com?user=Sangeethabarla&theme=tokyonight&hide_border=true"
+    alt="Sangeetha's GitHub Streak"
   />
 </p>
 
