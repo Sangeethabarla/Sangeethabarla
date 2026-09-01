@@ -114,25 +114,114 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-#### 📚 Student Project Repository | Java, JDBC, MySQL, SQL
+<div align="center">
 
-- Built a console-based project management system enabling students to organize academic and personal projects through secure login and complete CRUD functionality.
-- Integrated Java with MySQL using JDBC and PreparedStatement to efficiently manage project details, GitHub links, technology stack, project status, and descriptions.
-- Implemented a modular layered architecture following Object-Oriented Programming principles, improving code reusability and providing a foundation for future Spring Boot migration.
+<table>
+<tr>
 
-#### 🏢 Smart College Placement Portal | Java, JDBC, MySQL, SQL
+<td width="50%" align="center">
 
-- Developed a role-based Java application to streamline the college placement process, supporting student applications, recruiter job management, and administrator placement operations.
-- Integrated Java with MySQL using JDBC and SQL to manage students, recruiters, companies, job openings, applications, interviews, and placement results through structured CRUD operations.
+### 📚 Student Project Repository
 
-#### 💳 Credit Card Fraud Detection | Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Java + JDBC + MySQL + SQL + OOP**
 
-- Built a binary ML classification model on a highly imbalanced Kaggle dataset containing 284K+ transactions.
-- Applied SMOTE and threshold tuning to maximize Recall and reduce false negatives.
-- Trained Logistic Regression and Random Forest models and achieved 99%+ accuracy with optimized F1-score, Confusion Matrix, and ROC curve visualizations.
-- Performed feature importance analysis to identify the most predictive transaction attributes and improve interpretability for fraud analysts.
+Console-based project management system designed to
+organize and manage student project information efficiently.
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF9800?style=for-the-badge)
+
+<br><br>
+
+<a href="[https://github.com/Sangeethabarla](https://github.com/Sangeethabarla/StudentProjectRepository.git)">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎓 Smart College Placement Portal
+
+**Java + JDBC + MySQL + SQL**
+
+A college placement management system designed to
+manage students, recruiters, placement opportunities
+and related placement information.
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+<br><br>
+
+<a href="[https://github.com/Sangeethabarla](https://github.com/Sangeethabarla/Smart-College-Placement-Portal.git)">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 💳 Credit Card Fraud Detection
+
+**Python + Pandas + NumPy + Scikit-learn**
+
+Machine learning project focused on detecting fraudulent
+credit-card transactions using data preprocessing,
+feature analysis and classification techniques.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+<br><br>
+
+<a href="[https://github.com/Sangeethabarla](https://github.com/Sangeethabarla/CREDIT_CARD_FRAUD_DETECTION.git)">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 More Projects
+
+**Explore My GitHub Repositories**
+
+More projects, experiments and development work
+are available on my GitHub profile.
+
+<br><br><br>
+
+<a href="https://github.com/Sangeethabarla">
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
