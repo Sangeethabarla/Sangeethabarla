@@ -140,7 +140,7 @@ organize and manage student project information efficiently.
 
 <br><br>
 
-<a href="[https://github.com/Sangeethabarla](https://github.com/Sangeethabarla/StudentProjectRepository.git)">
+<a href="https://github.com/Sangeethabarla/StudentProjectRepository.git">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -165,7 +165,7 @@ and related placement information.
 
 <br><br>
 
-<a href="[https://github.com/Sangeethabarla](https://github.com/Sangeethabarla/Smart-College-Placement-Portal.git)">
+<a href="https://github.com/Sangeethabarla/Smart-College-Placement-Portal.git">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -195,7 +195,7 @@ feature analysis and classification techniques.
 
 <br><br>
 
-<a href="[https://github.com/Sangeethabarla](https://github.com/Sangeethabarla/CREDIT_CARD_FRAUD_DETECTION.git)">
+<a href="https://github.com/Sangeethabarla/CREDIT_CARD_FRAUD_DETECTION.git">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
