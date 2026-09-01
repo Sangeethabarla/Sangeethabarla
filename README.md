@@ -54,9 +54,7 @@
 
 ```
 
-## 4️⃣ Education
 
-```markdown
 # 🎓 Education
 
 ### 🏫 Sri Vasavi Engineering College
@@ -87,7 +85,7 @@
 
 📊 **CGPA: 10.0**
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -469,7 +467,7 @@ This repository contains the source code for my GitHub profile README and portfo
 
 # 🎯 2026 Goals
 
-```text
+
 ☑ Strengthen Advanced Java
 ☑ Master Advanced DSA
 ☑ Build Production-Ready Backend Applications
@@ -483,9 +481,9 @@ This repository contains the source code for my GitHub profile README and portfo
 
 
 
-## 1️⃣6️⃣ Currently Exploring
 
-```markdown
+
+
 # 🌱 Currently Exploring
 
 <p align="center">
